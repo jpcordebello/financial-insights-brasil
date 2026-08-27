@@ -1,3 +1,4 @@
+BEGIN;
 CREATE TABLE IF NOT EXISTS core.empresas (
     id BIGINT GENERATED ALWAYS AS IDENTITY
         PRIMARY KEY,
@@ -152,3 +153,4 @@ CREATE TABLE IF NOT EXISTS core.resultados_financeiros (
             periodo_id
         )
 );
+COMMIT;
