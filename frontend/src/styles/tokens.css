@@ -1,0 +1,33 @@
+:root {
+    --color-primary: #437ef7;
+    --color-primary-hover: #356de0;
+
+    --color-background: #f9fbfd;
+    --color-surface: #ffffff;
+    --color-surface-muted: #e6e9ec;
+
+    --color-border: #d1d9e2;
+
+    --color-text-primary: #1f2937;
+    --color-text-secondary: #5f6d7e;
+    --color-text-muted: #7c8b9d;
+
+    --color-positive: #16805b;
+    --color-negative: #c2413b;
+
+    --shadow-card:
+        0 1px 2px rgba(16, 24, 40, 0.05);
+
+    --radius-card: 10px;
+    --radius-button: 12px;
+    --radius-pill: 999px;
+
+    --space-1: 4px;
+    --space-2: 8px;
+    --space-3: 12px;
+    --space-4: 16px;
+    --space-6: 24px;
+    --space-8: 32px;
+
+    --content-max-width: 1440px;
+}
